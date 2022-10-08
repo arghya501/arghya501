@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arghya501
 - 👀 I’m interested in new technologies like Ml,Dl,Ai, Block chain
-- 🌱 I’m currently learning Salesforce(SFDC)
+- 🌱 I’m currently working on Salesforce(SFDC)
 - 💞️ I’m looking to collaborate on Ai projects
 - 📫 How to reach me arghyabhattacharya501amp@gmail.com
 
